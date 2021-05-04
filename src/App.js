@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import MainPage from './MainPage'
 
 function App() {
   return (
@@ -9,6 +10,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <MainPage />
+        <p>Welcome to Spondias</p>
         <a
           className="App-link"
           href="https://reactjs.org"
