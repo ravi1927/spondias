@@ -13,12 +13,12 @@ class App extends  React.Component {
     }
   }
 
-  componentDidMount() {
-    this.setState({
-      title:"welcome"
-    })
+  // componentDidMount() {
+  //   this.setState({
+  //     title:"welcome"
+  //   })
 
-  }
+  // }
 
   render() {
   return (
